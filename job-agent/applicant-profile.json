@@ -1,0 +1,65 @@
+{
+  "personal": {
+    "firstName": "Achyuth",
+    "lastName": "Manku",
+    "fullName": "Achyuth Reddy Manku",
+    "email": "achyuthmanku@gmail.com",
+    "phone": "(513) 799-8391",
+    "city": "United States",
+    "state": "",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/contactachyuth/",
+    "github": "",
+    "portfolio": "",
+    "website": ""
+  },
+  "workAuthorization": {
+    "authorizedToWorkInUS": true,
+    "requiresVisaSponsorship": true,
+    "usCitizen": false,
+    "usPermanentResident": false
+  },
+  "education": {
+    "highestDegree": "Master of Science",
+    "field": "Information Technology",
+    "school": "University of Cincinnati",
+    "graduationYear": "2023",
+    "bachelorsSchool": "Jawaharlal Nehru Technological University Hyderabad (JNTUH)",
+    "bachelorsDegree": "Bachelor of Technology",
+    "bachelorsField": "Computer Science",
+    "bachelorsYear": "2021"
+  },
+  "experience": {
+    "yearsTotal": 4,
+    "currentTitle": "Software Engineer",
+    "currentCompany": "Citibank"
+  },
+  "greenhouse": {
+    "sponsorship_answer": "Yes",
+    "authorized_us_answer": "Yes",
+    "citizen_answer": "No",
+    "clearance_answer": "No",
+    "gender": "",
+    "race": "",
+    "veteran": "I don't wish to answer",
+    "disability": "I don't wish to answer"
+  },
+  "lever": {
+    "org": "",
+    "cards": {},
+    "comments": "Excited about this role — my Java/Spring Boot and GenAI/RAG experience at Citi aligns well."
+  },
+  "ashby": {
+    "requiresSponsorship": "Yes",
+    "authorizedToWork": "Yes",
+    "usCitizen": "No"
+  },
+  "commonScreening": {
+    "yearsOfProfessionalExperience": "4",
+    "comfortableWithRemote": "Yes",
+    "expectedSalary": "",
+    "startDate": "2 weeks",
+    "referralSource": "Company career page",
+    "willingToRelocate": "Yes"
+  }
+}

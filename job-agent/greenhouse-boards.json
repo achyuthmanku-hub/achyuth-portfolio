@@ -1,0 +1,12 @@
+[
+  { "slug": "stripe", "name": "Stripe" },
+  { "slug": "tebra", "name": "Tebra" },
+  { "slug": "keepersecurity", "name": "Keeper Security" },
+  { "slug": "vestmark", "name": "Vestmark" },
+  { "slug": "figma", "name": "Figma" },
+  { "slug": "discord", "name": "Discord" },
+  { "slug": "brex", "name": "Brex" },
+  { "slug": "anthropic", "name": "Anthropic" },
+  { "slug": "databricks", "name": "Databricks" },
+  { "slug": "scaleai", "name": "Scale AI" }
+]

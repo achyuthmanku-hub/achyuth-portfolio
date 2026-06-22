@@ -1,0 +1,29 @@
+{
+  "name": "achyuth-job-agent",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Resume-matched US job search, ATS tailoring, and Greenhouse auto-apply agent",
+  "scripts": {
+    "search": "node src/index.js search",
+    "tailor": "node src/index.js tailor",
+    "apply": "node src/index.js apply",
+    "email": "node src/index.js email",
+    "report": "node src/index.js report",
+    "sheets:test": "node src/index.js sheets:test",
+    "apply-queue": "node src/index.js apply-queue",
+    "run": "node src/index.js run",
+    "setup": "npx playwright install chromium",
+    "install-agent": "./scripts/install_launchd.sh 8 0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "docx": "^9.5.0",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0",
+    "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}

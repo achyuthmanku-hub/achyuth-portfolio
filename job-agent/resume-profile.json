@@ -1,0 +1,47 @@
+{
+  "name": "Achyuth Reddy Manku",
+  "email": "achyuthmanku@gmail.com",
+  "phone": "(513) 799-8391",
+  "yearsExperience": 4,
+  "level": "mid",
+  "domains": ["fintech", "banking", "generative-ai", "enterprise-software"],
+  "targetRoles": [
+    "Software Engineer",
+    "Full Stack Developer",
+    "Full Stack Engineer",
+    "Backend Developer",
+    "Backend Engineer",
+    "Java Backend Engineer",
+    "Gen AI Engineer",
+    "AI Engineer",
+    "Java Developer",
+    "Full Stack Software Engineer"
+  ],
+  "technicalSkills": [
+    "java", "python", "typescript", "javascript", "sql", "go",
+    "spring boot", "spring mvc", "spring security", "hibernate",
+    "node.js", "nestjs", "rest", "graphql", "microservices",
+    "react", "redux", "angular",
+    "openai", "langchain", "langsmith", "rag", "prompt engineering",
+    "chromadb", "pinecone", "vector database", "tensorflow",
+    "aws", "azure", "docker", "kubernetes", "jenkins", "terraform", "ci/cd",
+    "postgresql", "mysql", "mongodb", "cassandra", "dynamodb", "redis",
+    "kafka", "rabbitmq", "oauth", "jwt", "rbac",
+    "splunk", "grafana", "prometheus", "elk", "new relic",
+    "junit", "mockito", "selenium", "tdd", "cohere", "gpt-4"
+  ],
+  "softSkills": [
+    "agile", "scrum", "code review", "cross-functional collaboration",
+    "stakeholder communication", "mentoring", "production ownership"
+  ],
+  "searchQueries": [
+    "Software Engineer Java Spring Boot United States posted today",
+    "Full Stack Engineer React Java AWS remote United States",
+    "Generative AI Engineer LangChain RAG United States",
+    "Backend Developer microservices Kafka United States",
+    "Java Backend Engineer fintech United States",
+    "Software Engineer Google Meta Amazon United States",
+    "Software Engineer Nvidia Databricks Stripe United States",
+    "Gen AI Engineer OpenAI banking United States"
+  ]
+}
