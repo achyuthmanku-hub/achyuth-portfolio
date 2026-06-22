@@ -3,7 +3,7 @@ import MeshBackground from './components/MeshBackground.jsx'
 import ExternalLink from './components/ExternalLink.jsx'
 import { useReveal } from './hooks/useReveal.js'
 
-const LINKEDIN = 'https://www.linkedin.com/in/contactachyuth'
+const LINKEDIN = 'https://www.linkedin.com/in/contactachyuth/'
 const LINKEDIN_LABEL = 'linkedin.com/in/contactachyuth'
 const EMAIL = 'achyuthmanku@gmail.com'
 const PHONE = '(513) 799-8391'
